@@ -1,3 +1,8 @@
+body {
+  background-image: url(./Images/f3.jpg);
+  background-size: cover;
+}
+
 h1 {
   background-color: black;
   color: white;
